@@ -34,6 +34,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
+### 📊 Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 📁 Project Management & Tools
+<p>
+  <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
+
 ---
 
 ## 📌 Featured Projects
