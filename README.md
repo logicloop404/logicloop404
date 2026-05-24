@@ -31,7 +31,9 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+  
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI"/>
 </p>
 
 
