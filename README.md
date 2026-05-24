@@ -31,7 +31,7 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi,Microsoft Project,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi,linux,docker" />
 </p>
 
 
