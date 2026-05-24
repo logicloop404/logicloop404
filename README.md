@@ -30,10 +30,16 @@
 </p>
 
 ### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-  
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="55"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="55"/>
+
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="55" alt="Power BI"/>
 </p>
 
 ---
