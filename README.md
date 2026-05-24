@@ -30,13 +30,11 @@
 </p>
 
 ### 🛠️ Tools & Platforms
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
   
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
 </p>
-
-
 
 ---
 
